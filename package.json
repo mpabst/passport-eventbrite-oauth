@@ -33,7 +33,7 @@
   "main": "./lib/passport-eventbrite-oauth",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "~1.0.0"
+    "passport-oauth": "~1.4.0"
   },
   "devDependencies": {
     "mocha": "~1.13.0",

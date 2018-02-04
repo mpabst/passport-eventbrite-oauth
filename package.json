@@ -21,8 +21,11 @@
     "name": "JP Erkelens",
     "email": "jp@jamplify.com"
   },
-   "contributors": [
-      {"name": "Matt Roman", "email": "matt@jamplify.com"}
+  "contributors": [
+    {
+      "name": "Matt Roman",
+      "email": "matt@jamplify.com"
+    }
   ],
   "licenses": [
     {
@@ -33,7 +36,7 @@
   "main": "./lib/passport-eventbrite-oauth",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "~1.4.0"
+    "passport-oauth2": "~1.4.0"
   },
   "devDependencies": {
     "mocha": "~1.13.0",
